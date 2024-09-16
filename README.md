@@ -29,4 +29,3 @@ Import this link in Readme as image source.
 <a target="_blank" href="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/0"><img src="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/0" alt="Recent Article 0">
 
 <a target="_blank" href="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/2"><img src="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/2" alt="Recent Article 2">
-

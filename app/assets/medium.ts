@@ -26,12 +26,13 @@ const medium = ({ title, description, date, url, thumbnail }) => `
           height:120px;
         }
 				.container{
+          width: 100%;
           height: 118px;
           border: 1px solid rgba(0,0,0,.2);
           padding: 10px 20px;
           border-radius: 10px;
-          background: rgb(255,255,255);
-          background: linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%);
+          background: rgb(23, 23, 23);
+          background: linear-gradient(60deg, rgb(23, 23, 23) 0%, rgb(23, 23, 23) 47%, rgba(246,246,246,1) 50%, rgb(23, 23, 23) 53%, rgb(23, 23, 23) 100%);
           background-size: 600% 400%;
           animation: gradientBackground 3s ease infinite;
           overflow: hidden;
@@ -52,10 +53,10 @@ const medium = ({ title, description, date, url, thumbnail }) => `
         }
         p {
           line-height: 1.5;
-          color: #555
+          color: #777
         }
         h3{
-          color: #333
+          color: rgba(255, 255, 255, 0.75)
         }
         small{
           color: #888;
