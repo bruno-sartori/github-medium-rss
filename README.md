@@ -1,4 +1,4 @@
-# Github REAME Recent Medium Article
+# Github README Recent Medium Article
 
 Show your recent published article from Medium on your Readme. See the live [demo](https://github.com/bruno-sartori).
 
