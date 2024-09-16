@@ -32,9 +32,7 @@ const medium = ({ title, description, date, url, thumbnail }) => `
           padding: 10px 20px;
           border-radius: 10px;
           background: rgb(23, 23, 23);
-          background: linear-gradient(60deg, rgb(23, 23, 23) 0%, rgb(23, 23, 23) 47%, rgba(246,246,246,1) 50%, rgb(23, 23, 23) 53%, rgb(23, 23, 23) 100%);
           background-size: 600% 400%;
-          animation: gradientBackground 8s ease infinite;
           overflow: hidden;
           text-overflow: ellipsis;
 				}
