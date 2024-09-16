@@ -10,7 +10,7 @@ Import this link in Readme as image source.
 
 **Format:**
 ```bash
-  https://github-readme-medium-recent-article.vercel.app/medium/<medium-username>/<article-index>
+  https://github-medium-rss.vercel.app/medium/<medium-username>/<article-index>
 ```
 - `medium-username`: your medium username/profile
 - `article-index` : your recent article index. e.g: `0` means your latest article. 
@@ -19,14 +19,14 @@ Import this link in Readme as image source.
 **Script in Readme.md**
 
 ```html
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/0"><img src="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/2"><img src="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/2" alt="Recent Article 2"> 
 
 ```
 **Result**
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/0"><img src="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunosartori.dev/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/2"><img src="https://github-medium-rss.vercel.app/medium/@brunosartori.dev/2" alt="Recent Article 2">
 
