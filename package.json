@@ -1,0 +1,34 @@
+{
+  "name": "github-medium-rss",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Bruno Sartori",
+    "email": "brunosartori.dev@gmail.com"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.2.12",
+    "axios": "^1.7.7",
+    "jsdom": "^24.1.1",
+    "moment": "^2.30.1",
+    "next": "14.2.9",
+    "react": "^18",
+    "react-dom": "^18",
+    "rss-to-json": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.9",
+    "typescript": "^5"
+  }
+}
