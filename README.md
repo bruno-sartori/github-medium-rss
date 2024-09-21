@@ -4,7 +4,9 @@
 <a style="display: inline-block;" target="_blank" href="https://github.com/sponsors/bruno-sartori">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Bruno Sartori">
 </a>
-<img style="display: inline-block;" src="https://img.shields.io/badge/Build-Passing-green.svg" alt="Build Passing">
+<a style="display: inline-block;" target="_blank" href="#">
+  <img src="https://img.shields.io/badge/Build-Passing-green.svg" alt="Build Passing">
+</a>
 
 <h1 style="text-align: center;">GitHub Medium RSS</h1>
 
