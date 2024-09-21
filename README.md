@@ -1,8 +1,16 @@
-# Github REAME Recent Medium Article
+<a style="display: inline-block;" target="_blank" href="https://choosealicense.com/licenses/mit/">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+</a>
+<a style="display: inline-block;" target="_blank" href="https://github.com/sponsors/bruno-sartori">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Bruno Sartori">
+</a>
+<img style="display: inline-block;" src="https://img.shields.io/badge/Build-Passing-green.svg" alt="Build Passing">
+
+<h1 style="text-align: center;">GitHub Medium RSS</h1>
 
 Show your recent published article from Medium on your Readme. See the live [demo](https://github.com/bruno-sartori).
 
-![github-readme-medium-recent-article](./example.jpg)
+![github-readme-medium-recent-article](https://raw.githubusercontent.com/bruno-sartori/github-medium-rss/main/example.jpg)
 
 ## Usage
 
